@@ -4,5 +4,11 @@
     "commit": "c12d3671574f18f242abf03b5a043a0545028bb3",
     "date": "2025-07-07 22:00:50 +0800",
     "author": "codeZ <81726521+cwbitz@users.noreply.github.com>"
+  },
+  {
+    "name": "dependabot/npm_and_yarn/fontsource/fira-sans-5.2.6",
+    "commit": "8a66b4c4a4e8ba9875efdfb9f753bdac6577e29f",
+    "date": "2025-08-02 01:42:38 +0000",
+    "author": "dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>"
   }
 ]
