@@ -4,5 +4,11 @@
     "commit": "c12d3671574f18f242abf03b5a043a0545028bb3",
     "date": "2025-07-07 22:00:50 +0800",
     "author": "codeZ <81726521+cwbitz@users.noreply.github.com>"
+  },
+  {
+    "name": "dependabot/npm_and_yarn/eslint-9.33.0",
+    "commit": "cf9ca8827737d69f983396152d0aff729ce9f4cb",
+    "date": "2025-08-09 01:38:54 +0000",
+    "author": "dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>"
   }
 ]
