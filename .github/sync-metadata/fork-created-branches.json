@@ -4,5 +4,11 @@
     "commit": "c12d3671574f18f242abf03b5a043a0545028bb3",
     "date": "2025-07-07 22:00:50 +0800",
     "author": "codeZ <81726521+cwbitz@users.noreply.github.com>"
+  },
+  {
+    "name": "feat/desktop-app",
+    "commit": "214dc74c4426db83f372a9f97c641757f4137aac",
+    "date": "2025-08-09 01:38:57 +0000",
+    "author": "kunish <kunish.butt@gmail.com>"
   }
 ]
