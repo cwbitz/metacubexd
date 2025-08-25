@@ -1,6 +1,6 @@
 {
   "name": "metacubexd",
-  "version": "1.191.0",
+  "version": "1.192.0",
   "description": "Mihomo Dashboard, The Official One, XD",
   "license": "MIT",
   "type": "module",
@@ -52,7 +52,7 @@
     "commitlint": "^19.8.1",
     "daisyui": "^5.0.46",
     "dayjs": "^1.11.13",
-    "eslint": "^9.31.0",
+    "eslint": "^9.34.0",
     "eslint-config-prettier": "^10.1.5",
     "eslint-plugin-prettier": "^5.5.1",
     "husky": "^9.1.7",
